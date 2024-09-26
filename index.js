@@ -1,3 +1,4 @@
+
 function divide(){
     let divide = 2000/100
     return divide;
